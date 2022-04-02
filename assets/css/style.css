@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+
+.footer-section{
+    background-color: black;
+    color:white;
+    display: flex;
+   
+}
+
+.community section{
+    background-color: white;
+    display:flex;
+  
+}
